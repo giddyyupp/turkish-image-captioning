@@ -14,3 +14,13 @@ Burada sonuc metriklerini hesaplamak icin [Microsoft COCO Caption Evaluation cod
 
 
 Modeli egitirken [NeuralTalk2](https://github.com/karpathy/neuraltalk2) kodu kullanildi. Test adiminda -dump_path secenegi aktif edilmelidir. Bu sayede dosya isimleri 1.jpg, 2.jpg gibi degil, orijinal isimleri ile kullanilabilecektir. Metrikler hesaplanirken imge dosyalarinin tam isimleri gerekmektedir.
+
+
+Model dosyalari: 
+Flickr icin en iyi basarim veren model dosyasi:
+
+[Dropbox](https://www.dropbox.com/s/8xrwwjixhnm9s0l/model_flickr30k_tr.t7?dl=0)
+
+MSCOCO icin en iyi basarim veren model dosyasi:
+
+Henuz yuklenme asamasinda...
