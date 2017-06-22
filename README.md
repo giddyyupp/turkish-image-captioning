@@ -18,9 +18,7 @@ Modeli egitirken [NeuralTalk2](https://github.com/karpathy/neuraltalk2) kodu kul
 
 Model dosyalari: 
 Flickr icin en iyi basarim veren model dosyasi:
-
 [Dropbox](https://www.dropbox.com/s/8xrwwjixhnm9s0l/model_flickr30k_tr.t7?dl=0)
 
 MSCOCO icin en iyi basarim veren model dosyasi:
-
-Henuz yuklenme asamasinda...
+[Dropbox](https://www.dropbox.com/s/9kxm3bpuzb85vfv/model_idcoco_wc5_StartCNN.t7?dl=0)
