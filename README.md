@@ -1,6 +1,9 @@
 # turkish-image-captioning
 
-Bu alan Görüntü Altyazılama  için Otomatik Tercümeyle Eğitim Kümesi Oluşturulabilir mi? (Could We Create A Training Set For Image Captioning Using Automatic Translation? ) başlıklı makaleye ait kodları ve kullanılan Türkçe altyazıları içermektedir (içerecektir). 
+Bu alan Görüntü Altyazılama  için Otomatik Tercümeyle Eğitim Kümesi Oluşturulabilir mi? (Could We Create A Training Set For Image Captioning Using Automatic Translation? ) başlıklı makaleye ait kodları ve kullanılan Türkçe altyazıları içermektedir. 
+
+[IEEE](https://ieeexplore.ieee.org/abstract/document/7960638)
+[PDF](http://users.metu.edu.tr/e213461/papers/siu2017.pdf)
 
 ## Veri Setleri
 
